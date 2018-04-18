@@ -1,0 +1,9 @@
+country_name: Lebanon
+country_code: LB
+actors:
+    -
+        name: Dark Caracal
+        slug: dark_caracal
+        other_names:
+        target_industries:
+        references:

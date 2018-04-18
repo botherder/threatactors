@@ -1,0 +1,26 @@
+country_name: China
+country_code: CN
+actors:
+    -
+        name: Comment Panda
+        slug: comment_panda
+        other_names:
+            - Comment Crew
+        target_industries:
+        references:
+    -
+        name: Numbered Panda
+        slug: numbered_panda
+        other_names:
+            - Calc Team
+            - IXESHE
+        target_industries:
+        references:
+
+    -
+        name: Deep Panda
+        slug: deep_panda
+        other_names:
+            - Shell Crew
+        target_industries:
+        references:

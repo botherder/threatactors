@@ -1,0 +1,17 @@
+country_name: Palestine
+country_code: PS
+actors:
+    -
+        name: Arid Viper
+        slug: arid_viper
+        other_names:
+            - Desert Falcon
+        target_industries:
+        references:
+    -
+        name: Molerats
+        slug: molerats
+        other_names:
+            - Gaza Hacker Team
+        target_industries:
+        references:

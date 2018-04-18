@@ -1,0 +1,29 @@
+country_name: Iran
+country_code: IR
+    -
+        name: Charming Kitten
+        slug: charming_kitten
+        other_names:
+        target_industries:
+        references:
+    -
+        name: Rocket Kitten
+        slug: rocket_kitten
+        other_names:
+            - Flying Kitten
+            - Saffron Rose
+            - Ajax Security Team
+        target_industries:
+        references:
+    -
+        name: Magic Kitten
+        slug: magic_kitten
+        other_names:
+        target_industries:
+        references:
+    -
+        name: Oilrig
+        slug: oilrig
+        other_names:
+        target_industries:
+        references:

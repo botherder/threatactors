@@ -1,0 +1,37 @@
+country_name: Russia
+country_code: RU
+actors:
+    -
+        name: Fancy Bear
+        slug: fancy_bear
+        other_names:
+            - APT28
+            - Sofacy
+            - Pawn Storm
+            - Sednit
+            - Tsar Team
+        target_industries:
+        references:
+    -
+        name: Cozy Bear
+        slug: cozy_bear
+        other_names:
+            - APT29
+            - Dukes
+            - Cozy Duke
+        target_industries:
+        references:
+    -
+        name: Turla Team
+        slug: turla_team
+        other_names:
+            - Venomous Bear
+            - Uroburos
+        target_industries:
+        references:
+    -
+        name: Energetic Bear
+        slug: energetic_bear
+        other_names:
+        target_industries:
+        references:
