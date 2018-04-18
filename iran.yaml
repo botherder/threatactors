@@ -1,5 +1,6 @@
 country_name: Iran
 country_code: IR
+actors:
     -
         name: Charming Kitten
         slug: charming_kitten
